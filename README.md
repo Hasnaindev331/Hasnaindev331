@@ -16,10 +16,16 @@
   <a href="https://www.upwork.com/freelancers/~01415c9a463338fe56" target="_blank">
     <img src="https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
   </a>
+  
   <a href="https://www.linkedin.com/in/muhammad-hasnain-fullstack-developer" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://stackoverflow.com/users/33342122/muhammad-hasnain" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Hasnaindev331&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+  
 </p>
 
 </div>

@@ -1,8 +1,28 @@
 <div align="center">
 
 <!-- Top Executive Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0D9488,100:10B981&height=210&section=header&text=Muhammad%20Hasnain&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%26%20Team%20Lead%20%7C%20Security%20%26%20Technical%20SEO&descSize=17&descAlignY=60&animation=fadeIn" width="100%" />
+<div align="center">
 
+<h1>Hi 👋, I'm Muhammad Hasnain</h1>
+<h3>Full-Stack Web Developer & Team Lead | Website Cyber Security & Technical SEO</h3>
+
+<!-- Animated Typing Sub-Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=880&lines=Full-Stack+Web+Apps+(React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PHP);WordPress%2C+WooCommerce+%26+Shopify+E-Commerce+Engineering;Website+Cyber+Security%2C+Malware+Cleanup+%26+Attack+Protection;Technical+SEO%2C+GA4%2FGTM+Tracking+%26+90%2B+Lighthouse+Speed" alt="Typing SVG" />
+
+<br/>
+
+<!-- Direct Action Badges -->
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01415c9a463338fe56" target="_blank">
+    <img src="https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-hasnain-fullstack-developer" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Hasnaindev331&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+</div>
 <!-- Animated Typing Sub-Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=880&lines=Full-Stack+Web+Apps+(React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PHP);WordPress%2C+WooCommerce+%26+Shopify+E-Commerce+Engineering;Website+Cyber+Security%2C+Malware+Cleanup+%26+Attack+Protection;Technical+SEO%2C+GA4%2FGTM+Tracking+%26+90%2B+Lighthouse+Speed" alt="Typing SVG" />
 

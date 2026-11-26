@@ -1,9 +1,11 @@
-<div align="center">
+
 
 <!-- Top Executive Header Banner -->
-<img src="./banner.jpg" width="100%" alt="Muhammad Hasnain Banner" />
+<div align="center">
 
-</div>
+<h1>Hi 👋, I'm Muhammad Hasnain</h1>
+<h3>Full-Stack Web Developer & Team Lead | Website Cyber Security & Technical SEO</h3>
+
 <!-- Animated Typing Sub-Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=880&lines=Full-Stack+Web+Apps+(React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PHP);WordPress%2C+WooCommerce+%26+Shopify+E-Commerce+Engineering;Website+Cyber+Security%2C+Malware+Cleanup+%26+Attack+Protection;Technical+SEO%2C+GA4%2FGTM+Tracking+%26+90%2B+Lighthouse+Speed" alt="Typing SVG" />
 
